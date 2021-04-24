@@ -1,10 +1,8 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=IsaEs" alt="IsaEs" />
 
-- 🔭 I’m currently working on Telecommunications Projects on Huawei.
-- 🌱 I’m currently learning Go.
+- 🔭 I’m currently working on Data Analytics Projects on Huawei.
 - 💬 Ask me about anything i will answer if i can.
-- 🤔 I’m looking for help with mentorship to future.
 - ⚡ Fun fact: I'm still surprised that the computers exists.
 
 
