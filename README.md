@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=IsaEs" alt="IsaEs" />
 
-- 🔭 I’m currently working on Huawei Mobile Services Projects on Huawei.
+- 🔭 I’m currently working at Turkish Airlines Technology. ✈️
 - 💬 Ask me about anything i will answer if i can.
 - ⚡ Fun fact: I'm still surprised that the computers exists.
 
